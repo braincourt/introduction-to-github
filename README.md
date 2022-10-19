@@ -8,6 +8,7 @@
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
+_... and try not to forget it immediately._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
